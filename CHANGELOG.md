@@ -8,3 +8,6 @@
 - Introduced mailing list with Changelog generation
 
 
+# v2.1.13
+- Fix flutterwave payment verification system
+
