@@ -11,3 +11,6 @@
 # v2.1.13
 - Fix flutterwave payment verification system
 
+# refs/heads/ch1095
+This introduces device lock mechanism
+
