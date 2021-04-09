@@ -14,3 +14,6 @@
 # refs/heads/ch1095
 This introduces device lock mechanism
 
+# refs/heads/ch986
+This introduces rounding up slider amounts
+
