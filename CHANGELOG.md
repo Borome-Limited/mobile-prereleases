@@ -17,3 +17,8 @@ This introduces device lock mechanism
 # refs/heads/ch986
 This introduces rounding up slider amounts
 
+# branches/wallet-ui
+First look at the wallet ui (Mock-only)
+
+n/a
+
