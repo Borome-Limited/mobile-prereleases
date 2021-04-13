@@ -30,3 +30,6 @@ n/a
 # refs/heads/ch986
 Round up loan
 
+# refs/heads/ch1095
+Test device lock
+
