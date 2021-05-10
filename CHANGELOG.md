@@ -33,3 +33,8 @@ Round up loan
 # refs/heads/ch1095
 Test device lock
 
+# branches/master
+Sign up flow
+
+https://app.clubhouse.io/borome/story/1179/improved-sign-up-flow
+
