@@ -38,3 +38,8 @@ Sign up flow
 
 https://app.clubhouse.io/borome/story/1179/improved-sign-up-flow
 
+# branches/master
+Improved dashboard UI
+
+https://app.clubhouse.io/borome/story/1181/improved-dashboard
+
