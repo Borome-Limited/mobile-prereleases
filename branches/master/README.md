@@ -1,5 +1,5 @@
 # branches/master
-Improved dashboard UI
+Repayment UI flow
 
-https://app.clubhouse.io/borome/story/1181/improved-dashboard
+https://app.clubhouse.io/borome/story/1182/improved-repayment-flow
 
